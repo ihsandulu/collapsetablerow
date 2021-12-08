@@ -30,9 +30,11 @@ Cara penggunaan:
 
    4.e. array_untuk_isi_td diisi dengan data-data pada td. Contoh : ['2021-12-01','2021-12-01'].
 
-5. Wajib memasukkan span ke dalam td.
+5. Wajib memasukkan class 'tampilrow' ke dalam button collapse.
 
-6. Wajib memasukkan class 'fa-plus' di dalam span.
+6. Wajib memasukkan span ke dalam td.
+
+7. Wajib memasukkan class 'fa-plus' di dalam span.
 
 ==========================================================================
 
